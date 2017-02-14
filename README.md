@@ -10,20 +10,20 @@ This project contains:
 
 #Overview of scenes
 #Room1
-![Room1](room1.png)
+![Room1](res/room1.png)
 
 #Room2
-![Room2](room2.png)
+![Room2](res/room2.png)
 
 #Room3
-![Room3](room3.png)
+![Room3](res/room3.png)
 
 #Room4
-![Room4](room4.png)
+![Room4](res/room4.png)
 
 #Room5
-![Room5](room5.png)
+![Room5](res/room5.png)
 
 #Room6
-![Room6](room6.png)
+![Room6](res/room6.png)
 
