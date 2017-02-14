@@ -1,0 +1,4 @@
+Arguments:
+<fine_GT.pcd> <coarse_GT.pcd> <pred_file.pcd>
+
+
