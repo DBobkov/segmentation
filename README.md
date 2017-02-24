@@ -8,6 +8,17 @@ This project contains:
 
 2) Point cloud datasets with ground truth labelling on two levels. This includes 6  scenes within an office environment containing various objects, in total 452 object parts and 156 objects. For quick overview, proceed to web-viewer located here http://www.navvis.com/iv.hmw/.
 
+#Explanation of the labelling
+Coarse labelling (objects)
+
+<img src="res/for_paper2.png" alt="Coarse labelling" width="300">
+
+Fine labelling (object parts)
+
+<img src="res/for_paper1.png" alt="Fine labelling" width="300">
+
+
+
 #Overview of scenes
 #Room1
 <img src="res/room1.png" alt="Room1" width="300">
