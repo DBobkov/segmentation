@@ -1,4 +1,4 @@
-# segmentation
+# Object segmentation in point cloud data
 
 Supplementary material for paper D. Bobkov, S. Chen, M. Kiechle, S. Hilsenbeck, E. Steinbach "Noise-resistant Unsupervised Object Segmentation in Multi-view Indoor Point Clouds", 2017. The paper is presented in 12th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications in Porto, Portugal in February 2017.
 
@@ -10,7 +10,7 @@ This project contains:
 
 3) Raw pointcloud of the entire buildings (3 used buildings with XYZ and RGB information for each point) can be accessed here http://www.lmt.ei.tum.de/fileadmin/user_upload/bobkov/Object_segmentation_dataset/object_segmentation_building_dataset.zip
 
-#Explanation of the labelling
+# Explanation of the labelling
 Coarse labelling (objects)
 
 <img src="res/for_paper2.png" alt="Coarse labelling" width="300">
