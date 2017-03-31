@@ -8,6 +8,8 @@ This project contains:
 
 2) Point cloud datasets with ground truth labelling on two levels. This includes 6  scenes within an office environment containing various objects, in total 452 object parts and 156 objects. For quick overview, proceed to web-viewer located here http://www.navvis.com/iv.hmw/.
 
+3) Raw pointcloud of the entire buildings (3 used buildings with XYZ and RGB information for each point) can be accessed here http://www.lmt.ei.tum.de/fileadmin/user_upload/bobkov/Object_segmentation_dataset/object_segmentation_building_dataset.zip
+
 #Explanation of the labelling
 Coarse labelling (objects)
 
@@ -19,24 +21,24 @@ Fine labelling (object parts)
 
 
 
-#Overview of scenes
-#Room1
+# Overview of scenes
+# Room1
 <img src="res/room1.png" alt="Room1" width="300">
 
 
 
-#Room2
+# Room2
 <img src="res/room2.png" alt="Room2" width="300">
 
-#Room3
+# Room3
 <img src="res/room3.png" alt="Room2" width="300">
 
-#Room4
+# Room4
 <img src="res/room4.png" alt="Room2" width="300">
 
-#Room5
+# Room5
 <img src="res/room5.png" alt="Room2" width="300">
 
-#Room6
+# Room6
 <img src="res/room6.png" alt="Room2" width="300">
 
