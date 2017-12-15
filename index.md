@@ -11,15 +11,15 @@ layout: default
 1. Method to robustly detect high-noise regions. It helps to overcome limitations of state-of-the-art object segmentation algorithms that perform poorly on MVPC datasets due to the specific properties of such data.
 2. A new MVPC dataset with labelling for objects and parts. It has been acquired using a laser scanner and contains scenes of office environments.
 
-For full-text of the paper, see <a href="http://www.lmt.ei.tum.de/forschung/publikationen/dateien/Bobkov2017Noise-resistantUnsupervisedObjectSegmentation.pdf"> Preprint </a> or <a href="http://dx.doi.org/10.5220/0006100801490156">Official version</a>.
+For full-text of the paper, see <a href="http://www.lmt.ei.tum.de/forschung/publikationen/dateien/Bobkov2017Noise-resistantUnsupervisedObjectSegmentation.pdf"> Preprint </a> or <a href="http://dx.doi.org/10.5220/0006100801490156">Official version</a>. For supplementary material with more details on labelling and ground truth evaluation + more evaluation of the segmentation method see <a href="https://github.com/DBobkov/segmentation/blob/master/report/visapp2017_supplementary.pdf">here</a>.
 
 # Object segmentation in point cloud data
 
 This project contains: 
 
-1. Code to perform multi-scale evaluation of segmentation on 3D data. For this you need a labelled result along with two files for ground truth. This is based on the segmentation evaluation metric of Richtsfeld et al. "Segmentation of unknown objects in indoor environments", IROS 2012. We extended it to include various possible object scales. For more details see the report file.
+1. Code to perform multi-scale evaluation of segmentation on 3D data. For this you need a labelled result along with two files for ground truth. This is based on the segmentation evaluation metric of Richtsfeld et al. "Segmentation of unknown objects in indoor environments", IROS 2012. We extended it to include various possible object scales. For more detailed description see the <a href="https://github.com/DBobkov/segmentation/blob/master/report/visapp2017_supplementary.pdf">report file</a>. Code can be found <a href="https://github.com/DBobkov/segmentation/tree/master/evaluation_code">here</a>.
 
-2. Point cloud datasets with ground truth labelling on two levels. This includes 6  scenes within an office environment containing various objects, in total 452 object parts and 156 objects. For quick overview, proceed to web-viewer located here http://www.navvis.com/iv.hmw/.
+2. Point cloud datasets with ground truth labelling on two levels. This includes 6  scenes within an office environment containing various objects, in total 452 object parts and 156 objects. For quick overview, proceed to web-viewer located here http://www.navvis.com/iv.hmw/. Data can be found at <a href="https://github.com/DBobkov/segmentation/tree/master/data/0_Groundtruth_PointXYZL"/> here </a>.
 
 3. Raw pointcloud of the entire buildings (3 used buildings with XYZ and RGB information for each point) can be accessed <a href="http://www.lmt.ei.tum.de/fileadmin/user_upload/bobkov/Object_segmentation_dataset/object_segmentation_building_dataset.zip">here</a>.
 
