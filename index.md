@@ -57,4 +57,6 @@ Fine labelling (object parts)
 
 
 # Contact
-For any questions or inquiries, please contact Dmytro Bobkov at dmytro.bobkov@tum.de with a subject "Object segmentation VISAPP".
+For any questions or inquiries, please contact Dmytro Bobkov at _email address below_ with a subject "Object segmentation VISAPP".
+
+<img src="res/email.png" alt="Email" width="150">
